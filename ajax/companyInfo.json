@@ -1,0 +1,35 @@
+{
+    "organisation": "SuperNet",
+    "numberOfEmployees": 5,
+    "employees": [{
+            "name": "Bert Bengtsson",
+            "age": 35,
+            "employeeNumber": 100000,
+            "isManagement": true
+        },
+        {
+            "name": "Birger Bengtsson",
+            "age": 30,
+            "employeeNumber": 100002,
+            "isManagement": true
+        },
+        {
+            "name": "Signe Rudolfsson",
+            "age": 45,
+            "employeeNumber": 100003,
+            "isManagement": false
+        },
+        {
+            "name": "Ingbert Kalasson",
+            "age": 25,
+            "employeeNumber": 100005,
+            "isManagement": false
+        },
+        {
+            "name": "Linus Linje",
+            "age": 29,
+            "employeeNumber": 100006,
+            "isManagement": false
+        }
+    ]
+}

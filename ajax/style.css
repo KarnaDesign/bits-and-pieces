@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 5rem auto;
+}
+
+.employeeList {
+    display: flex;
+    justify-content: center;
+}
+
+.employeeList table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+.employeeList table tr th {
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #000000;
+}
+
+.employeeList table tr td {
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.employeeList table tbody tr:first-child td {
+    padding-top: 1rem;
+
+}
